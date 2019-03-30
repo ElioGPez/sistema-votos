@@ -1,0 +1,30 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  /* font-family: 'Lato', sans-serif; */
+  /* background: rgb(191, 204, 249); */
+  background: #2b2b2a;
+  margin-top: 20px;
+
+}
+
+/* hhh{
+  width: 400px;
+  margin: auto;
+  background-color: rgba(0, 0, 0,0.4);
+  padding: 10px 20px;
+  margin-top: 20px;
+} */
+
+form{
+  /* background: rgba(0, 0,0, 0.4); */
+  background: #333333;
+  border: 1px solid #4e4d4d;
+  /* opacity: 0.9; */
+  padding: 60px 30px;
+  border-radius: 3px;
+  margin: 50px auto;
+  color: #fff;
+}
